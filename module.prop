@@ -1,0 +1,6 @@
+id=aptxten
+name=aptX libraries for Android 10
+version=v1.0
+versionCode=1
+author=Flex1911
+description=Adds aptX libraries to the system
